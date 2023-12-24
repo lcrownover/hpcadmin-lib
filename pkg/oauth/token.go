@@ -94,4 +94,3 @@ func GetJWTRoleFromToken(token *jwt.Token) string {
 	}
 	return role
 }
-
